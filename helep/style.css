@@ -33,13 +33,11 @@ html {
     text-align: center;
 }
 .credit a{
-    position: relative;
     color: white;
-    text-align: center;
-    font-size: large;
-    left: 925px;
-    margin-top: 10px;
 }
 .credit p{
     text-align: center;
+    font-size: 25px;
+    margin-top: 2%;
+    margin-bottom: 3%;
 }
