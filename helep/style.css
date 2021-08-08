@@ -32,6 +32,14 @@ html {
     position: relative;
     text-align: center;
 }
+.credit a{
+    position: relative;
+    color: white;
+    text-align: center;
+    font-size: large;
+    left: 925px;
+    margin-top: 10px;
+}
 .credit p{
     position: relative;
     color: white;
