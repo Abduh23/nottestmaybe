@@ -40,3 +40,7 @@ html {
     left: 925px;
     margin-top: 10px;
 }
+/* agar credit nya di ttengah */
+.credit p {
+    text-align: center;
+}
